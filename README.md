@@ -3,10 +3,12 @@
 <h1 align="center">Hi 👋, I'm Madan HM</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madan-HM](https://github.com/Madan-HM)
 
+- 💬 Ask me about **JAVA**
+  
 - 📫 How to reach me **madan3.h.m@gmail.com**
 
 [![](https://visitcount.itsvg.in/api?id=madanhm&icon=5&color=0)](https://visitcount.itsvg.in)
@@ -18,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madan-hm&show_icons=true&locale=en&layout=compact" alt="madan-hm" /></p>
 
